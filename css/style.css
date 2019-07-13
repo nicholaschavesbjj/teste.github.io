@@ -12238,7 +12238,3 @@ textarea.form-control {
 .footer-info p {
     color: #fff;
 }
-
-.img-fluid {
-    height: -webkit-fill-available;
-}
