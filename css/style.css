@@ -12239,6 +12239,6 @@ textarea.form-control {
     color: #fff;
 }
 
-.carousel-item img {
-    height: 300px;
+.img-fluid {
+    height: -webkit-fill-available;
 }
