@@ -12238,3 +12238,25 @@ textarea.form-control {
 .footer-info p {
     color: #fff;
 }
+
+#contate-um-dev {
+    color: #403f3f !important;
+    font-size: 11px !important;
+}
+
+#contate-um-dev a {
+    color: #403f3f !important;
+    font-size: 11px !important;
+    text-decoration: none !important;
+}
+
+#contate-um-dev a:hover {
+    color: #e5ce48 !important;
+    text-decoration: none;
+}
+
+#contate-um-dev a:visited {
+    color: #403f3f;
+    font-size: 11px;
+    text-decoration: none;
+}
